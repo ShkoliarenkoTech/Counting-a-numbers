@@ -1,0 +1,14 @@
+var a,b,c : set of byte;
+i:integer;
+x: byte;
+begin
+a :=[0..20];
+write('Sequence B = ');
+for x := 0 to 20 do
+  if x mod 6 = 0 then b:=b+[x];
+writeln(b);
+write('Sequence С = ');
+for x:= 0 to 20 do
+  if (x mod 2 = 0) or (x mod 3 = 0) then c:=c+[x];
+writeln(c);
+end.
