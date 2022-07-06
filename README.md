@@ -1,3 +1,3 @@
 # Pascal
-Count amount of the numbers which satisfy the expression.<br/><br/><br/><br/><br/><br/><br/><br/>
+The program counts amount of the numbers which satisfy the expression.<br/><br/><br/><br/><br/><br/><br/><br/>
 ###### SD
